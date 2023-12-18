@@ -31,7 +31,7 @@ Make sure you have [XAMPP](https://www.apachefriends.org/index.html) installed o
 
 7. **Configure Database Connection:**
    - Navigate to the `System-Tabulation` repository folder.
-   - Look for a configuration file, typically named `config.php` or similar, that contains database connection settings.
+   - Look for a configuration file, typically named `model.php`, that contains database connection settings.
    - Update the database connection details (hostname, username, password, database name) if required to match your local setup.
 
 8. **Access the Website:**
